@@ -122,6 +122,14 @@ b, strong {
   left: 0;
 }
 
+.resume {
+  background-color: rgb(241, 192, 74);
+}
+
+.about {
+  background-color: rgb(241, 192, 74);
+}
+
 .skills {
   width: 100%;
 }
@@ -241,6 +249,10 @@ b, strong {
   position: relative;
 }
 
+.footer {
+  background-color: #212121;
+}
+
 .copyright-text {
   font-size: 16px;
   font-weight: normal;
@@ -346,6 +358,7 @@ b, strong {
   vertical-align: middle;
   margin-left: 15px;
 }
+
 
 .owl-carousel .owl-nav span {
   display: none;
